@@ -1,2 +1,3 @@
-### Hexlet tests and linter status:
-[![Actions Status](https://github.com/SweetMoustached/frontend-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/SweetMoustached/frontend-project-lvl1/actions)
+# Brain games project
+
+this project includes 3 math games in CL interface
