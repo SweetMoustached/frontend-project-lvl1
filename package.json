@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/SweetMoustached/hexlet-first-project/issues"
   },
-  "homepage": "https://github.com/SweetMoustached/hexlet-first-project#readme"
+  "homepage": "https://github.com/SweetMoustached/hexlet-first-project#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
