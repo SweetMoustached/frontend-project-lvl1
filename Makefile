@@ -4,3 +4,6 @@ install: #install deps from package-lock.json
 	
 brain-games:
 	node bin/brain-games.js
+
+publish:
+	npm publish --dry-run
